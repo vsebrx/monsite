@@ -1,0 +1,35 @@
+body{
+	color:rgb(23, 23, 23);
+	background-color:#008dc9;
+	font-family:cursive;
+	font-size:15px;
+	line-height:20px;
+	text-align:center;
+}
+
+h1{
+	font-variant:small-caps;
+	letter-spacing:1px;
+	font-size:40px;
+	color:#0000bf;
+}
+
+div{
+	margin:25px 300px;
+	padding:10px 100px;
+	border-radius:15px;
+	box-shadow:10px 10px 20px rgb(23, 23, 23);
+}
+
+img{
+	border-radius:10px;
+}
+
+a{
+	color:#0000bf;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#ff0000;
+}
